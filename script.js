@@ -21,7 +21,7 @@ let questions = [
         ["indexOf()", "map()", "filter()", "reduce()", "filter()"],
         "filter()"),
 
-    new Question("quelle methode permet a javascript de verifier si un element figure dans un tableau",
+    new Question("quelle methode permet à javascript de verifier si un element figure dans un tableau",
         ["isNan()", "includes()", "filter()", "reduce()", "filter()"], "includes()"),
    
     new Question("quelle methode transforme du json en objet java script",
